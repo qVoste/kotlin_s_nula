@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93c47635-58fc-4205-b3e7-4625a4fad14e" name="Changes" comment="Цикл for">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="93c47635-58fc-4205-b3e7-4625a4fad14e" name="Changes" comment="Цикл while">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740488418273</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Цикл while">
+      <option name="closed" value="true" />
+      <created>1740489143732</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740489143732</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -153,6 +160,7 @@
     <MESSAGE value="Работа с переменными" />
     <MESSAGE value="Условный оператор if" />
     <MESSAGE value="Цикл for" />
-    <option name="LAST_COMMIT_MESSAGE" value="Цикл for" />
+    <MESSAGE value="Цикл while" />
+    <option name="LAST_COMMIT_MESSAGE" value="Цикл while" />
   </component>
 </project>
