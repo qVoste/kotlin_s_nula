@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93c47635-58fc-4205-b3e7-4625a4fad14e" name="Changes" comment="Работа с переменными" />
+    <list default="true" id="93c47635-58fc-4205-b3e7-4625a4fad14e" name="Changes" comment="Условный оператор if" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,13 +125,22 @@
       <option name="project" value="LOCAL" />
       <updated>1740487692322</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Условный оператор if">
+      <option name="closed" value="true" />
+      <created>1740487887599</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740487887599</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Создал проект" />
     <MESSAGE value="Вывод текста в консоль" />
     <MESSAGE value="Работа с переменными" />
-    <option name="LAST_COMMIT_MESSAGE" value="Работа с переменными" />
+    <MESSAGE value="Условный оператор if" />
+    <option name="LAST_COMMIT_MESSAGE" value="Условный оператор if" />
   </component>
 </project>
