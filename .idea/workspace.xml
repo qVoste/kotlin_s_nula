@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93c47635-58fc-4205-b3e7-4625a4fad14e" name="Changes" comment="Функции" />
+    <list default="true" id="93c47635-58fc-4205-b3e7-4625a4fad14e" name="Changes" comment="Лямбда-выражения">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740586043672</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Лямбда-выражения">
+      <option name="closed" value="true" />
+      <created>1740586495471</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740586495471</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -187,6 +197,7 @@
     <MESSAGE value="Массивы" />
     <MESSAGE value="Листы, множества, карты (list, set, map)" />
     <MESSAGE value="Функции" />
-    <option name="LAST_COMMIT_MESSAGE" value="Функции" />
+    <MESSAGE value="Лямбда-выражения" />
+    <option name="LAST_COMMIT_MESSAGE" value="Лямбда-выражения" />
   </component>
 </project>
