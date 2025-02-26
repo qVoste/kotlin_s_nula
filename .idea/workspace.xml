@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93c47635-58fc-4205-b3e7-4625a4fad14e" name="Changes" comment="Массивы">
+    <list default="true" id="93c47635-58fc-4205-b3e7-4625a4fad14e" name="Changes" comment="Листы, множества, карты (list, set, map)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -159,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740490228324</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Листы, множества, карты (list, set, map)">
+      <option name="closed" value="true" />
+      <created>1740509636244</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740509636244</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -170,6 +179,7 @@
     <MESSAGE value="Цикл for" />
     <MESSAGE value="Цикл while" />
     <MESSAGE value="Массивы" />
-    <option name="LAST_COMMIT_MESSAGE" value="Массивы" />
+    <MESSAGE value="Листы, множества, карты (list, set, map)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Листы, множества, карты (list, set, map)" />
   </component>
 </project>
