@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93c47635-58fc-4205-b3e7-4625a4fad14e" name="Changes" comment="Высшие-order функции">
+    <list default="true" id="93c47635-58fc-4205-b3e7-4625a4fad14e" name="Changes" comment="ООП: Классы и обьекты">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -192,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740587526759</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="ООП: Классы и обьекты">
+      <option name="closed" value="true" />
+      <created>1740588448195</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1740588448195</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -207,6 +215,7 @@
     <MESSAGE value="Функции" />
     <MESSAGE value="Лямбда-выражения" />
     <MESSAGE value="Высшие-order функции" />
-    <option name="LAST_COMMIT_MESSAGE" value="Высшие-order функции" />
+    <MESSAGE value="ООП: Классы и обьекты" />
+    <option name="LAST_COMMIT_MESSAGE" value="ООП: Классы и обьекты" />
   </component>
 </project>
