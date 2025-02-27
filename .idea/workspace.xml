@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93c47635-58fc-4205-b3e7-4625a4fad14e" name="Changes" comment="ООП: Наследование" />
+    <list default="true" id="93c47635-58fc-4205-b3e7-4625a4fad14e" name="Changes" comment="ООП: Переопределение методов">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -230,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740668275800</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="ООП: Переопределение методов">
+      <option name="closed" value="true" />
+      <created>1740668675942</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1740668675942</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -249,6 +259,7 @@
     <MESSAGE value="ООП: Конструкторы" />
     <MESSAGE value="ООП: Методы" />
     <MESSAGE value="ООП: Наследование" />
-    <option name="LAST_COMMIT_MESSAGE" value="ООП: Наследование" />
+    <MESSAGE value="ООП: Переопределение методов" />
+    <option name="LAST_COMMIT_MESSAGE" value="ООП: Переопределение методов" />
   </component>
 </project>
